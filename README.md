@@ -7,7 +7,6 @@ This project is a JavaFX-based converter application developed for a specific se
 - Single text field for inputting values.
 - Six conversion buttons: meter, kilometer, volume, INR, Celsius (°C), and Fahrenheit (°F).
 - Handles non-numeric input by displaying a prompt message.
-- Distinct designs for each conversion, graded on appeal.
 
 ## Technologies Used
 - JavaFX for building the user interface.
